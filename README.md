@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there, I'm Shourya Sinha — aka @Shourya-Sinha</h1>
+<h1 align="center">👋 Hi there, I'm Indrajeet Kumar Shoury — aka @Shourya-Sinha</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Software+Developer+%F0%9F%92%BB;React+Native+%7C+Java+%7C+Node.js+Engineer;Ethical+Hacking+Enthusiast+%F0%9F%94%90;Let's+Build+Something+Great+Together+%F0%9F%92%AA" alt="Typing SVG" />
